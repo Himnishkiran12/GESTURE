@@ -1,0 +1,37 @@
+body
+{
+  color: white;
+  background: url(https://th.bing.com/th/id/OIP.1mKk6RL8uW5USPbSOLLFqgHaEo?pid=ImgDet&rs=1);
+  background-size:cover ;
+  font-family: 'Merienda', cursive;
+}
+#head{
+  font-family: 'Fugaz One', cursive;
+}
+span
+{
+  font-size: 30px;
+}
+#webcam , #snapshot
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+  background-color: black;
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 48px;
+  border-radius: 30px; 
+}
